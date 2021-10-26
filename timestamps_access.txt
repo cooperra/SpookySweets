@@ -1,0 +1,97 @@
+.:
+total 48
+-rw-r--r-- 1 cooperra cooperra    0 Oct 24 20:17 timestamps_access.txt
+-rw-r--r-- 1 cooperra cooperra 4189 Oct 24 20:14 timestamps.txt
+drwxr-xr-x 2 cooperra cooperra 4096 Oct 24 19:37 Scenes
+-rw-r--r-- 1 cooperra cooperra 1369 Oct 24 19:36 project.godot
+-rw-r--r-- 1 cooperra cooperra  163 Oct 24 19:36 default_env.tres
+-rw-r--r-- 1 cooperra cooperra 4053 Oct 24 19:36 Level.tscn
+drwxr-xr-x 4 cooperra cooperra 4096 Oct 24 19:25 Sounds
+drwxr-xr-x 2 cooperra cooperra 4096 Oct 24 19:14 Sprites
+drwxr-xr-x 2 cooperra cooperra 4096 Oct 24 19:13 Scripts
+drwxr-xr-x 2 cooperra cooperra 4096 Oct 24 18:28 Music
+-rw-r--r-- 1 cooperra cooperra  640 Oct 24 13:09 icon.png.import
+-rw-r--r-- 1 cooperra cooperra 3305 Oct 24 13:09 icon.png
+
+./Scenes:
+total 8
+-rw-r--r-- 1 cooperra cooperra 1093 Oct 24 19:36 kid.tscn
+-rw-r--r-- 1 cooperra cooperra  213 Oct 24 19:11 candy_bag.tscn
+
+./Sounds:
+total 504
+-rw-r--r-- 1 cooperra cooperra    137 Oct 24 19:33 wscream_2 credit.txt
+-rw-r--r-- 1 cooperra cooperra     75 Oct 24 19:33 wscream_2 credit.txt~
+-rw------- 1 cooperra cooperra   1524 Oct 24 19:33 boo1_raw.aup
+-rw-r--r-- 1 cooperra cooperra     82 Oct 24 19:33 foom_0 credit.txt
+-rw------- 1 cooperra cooperra   1519 Oct 24 19:33 boo1.aup
+drwxrwxr-x 3 cooperra cooperra   4096 Oct 24 19:33 boo1_data
+drwxrwxr-x 3 cooperra cooperra   4096 Oct 24 19:33 boo1_raw_data
+-rw-r--r-- 1 cooperra cooperra      0 Oct 24 19:21 foom_0 credit.txt~
+-rw-r--r-- 1 cooperra cooperra    404 Oct 24 18:57 boo1.wav.import
+-rw-r--r-- 1 cooperra cooperra 133164 Oct 24 18:57 boo1.wav
+-rw-r--r-- 1 cooperra cooperra    419 Oct 24 18:44 wscream_2.wav.import
+-rw-r--r-- 1 cooperra cooperra  30584 Oct 24 18:44 wscream_2.wav
+-rw-r--r-- 1 cooperra cooperra    410 Oct 24 18:41 foom_0.wav.import
+-rw-r--r-- 1 cooperra cooperra 304940 Oct 24 18:40 foom_0.wav
+
+./Sounds/boo1_data:
+total 4
+drwxr-xr-x 3 cooperra cooperra 4096 Oct 24 18:51 eff
+
+./Sounds/boo1_data/eff:
+total 4
+drwxr-xr-x 2 cooperra cooperra 4096 Oct 24 18:57 d1f
+
+./Sounds/boo1_data/eff/d1f:
+total 1088
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:56 eff1f574.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:56 eff1ff0c.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:56 eff1fc5e.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:56 eff1fdb2.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:55 eff1fb4a.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:55 eff1fcb9.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:52 eff1f148.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 18:52 eff1f317.au
+
+./Sounds/boo1_raw_data:
+total 4
+drwxr-xr-x 3 cooperra cooperra 4096 Oct 24 18:54 eff
+
+./Sounds/boo1_raw_data/eff:
+total 4
+drwxr-xr-x 2 cooperra cooperra 4096 Oct 24 18:57 d1f
+
+./Sounds/boo1_raw_data/eff/d1f:
+total 272
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 19:33 eff1f148.au
+-rw-r--r-- 1 cooperra cooperra 136248 Oct 24 19:33 eff1f317.au
+
+./Sprites:
+total 48
+-rw-r--r-- 1 cooperra cooperra 566 Oct 24 19:33 candy_bag.aseprite
+-rw-r--r-- 1 cooperra cooperra 593 Oct 24 19:33 ghost.aseprite
+-rw-r--r-- 1 cooperra cooperra 913 Oct 24 19:33 house.aseprite
+-rw-r--r-- 1 cooperra cooperra 878 Oct 24 19:33 kid1.aseprite
+-rw-r--r-- 1 cooperra cooperra 650 Oct 24 19:14 kid1.png.import
+-rw-r--r-- 1 cooperra cooperra 381 Oct 24 19:14 kid1.png
+-rw-r--r-- 1 cooperra cooperra 665 Oct 24 19:09 candy_bag.png.import
+-rw-r--r-- 1 cooperra cooperra 251 Oct 24 19:08 candy_bag.png
+-rw-r--r-- 1 cooperra cooperra 653 Oct 24 18:09 house.png.import
+-rw-r--r-- 1 cooperra cooperra 596 Oct 24 18:03 house.png
+-rw-r--r-- 1 cooperra cooperra 653 Oct 24 13:31 ghost.png.import
+-rw-r--r-- 1 cooperra cooperra 282 Oct 24 13:11 ghost.png
+
+./Scripts:
+total 16
+-rw-r--r-- 1 cooperra cooperra 2553 Oct 24 19:12 kid.gd
+-rw-r--r-- 1 cooperra cooperra 1117 Oct 24 19:02 kidspawner.gd
+-rw-r--r-- 1 cooperra cooperra  788 Oct 24 19:00 house.gd
+-rw-r--r-- 1 cooperra cooperra 1458 Oct 24 18:53 ghost.gd
+
+./Music:
+total 13244
+-rw-r--r-- 1 cooperra cooperra      141 Oct 24 19:32 Funny Horror credit.txt
+-rw-r--r-- 1 cooperra cooperra        0 Oct 24 18:26 Funny Horror credit.txt~
+-rw-r--r-- 1 cooperra cooperra      454 Oct 24 18:25 Funny Horror (Looped).wav.import
+-rw-r--r-- 1 cooperra cooperra 13546318 Oct 24 18:25 Funny Horror (Looped).wav
