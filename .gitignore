@@ -12,4 +12,6 @@ export_presets.cfg
 .mono/
 data_*/
 
+# Project-specific
 
+Exports/
